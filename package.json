@@ -39,7 +39,7 @@
   },
   "devDependencies": {
     "husky": "2.7.0",
-    "lint-staged": "8.2.1",
+    "lint-staged": "9.2.1",
     "prettier": "1.15.3",
     "textlint": "11.3.1",
     "textlint-scripts": "^2.1.0"
